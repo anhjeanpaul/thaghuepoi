@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uatuahiequ.drphone.co.nz/sitemap.xml
